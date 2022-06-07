@@ -1,0 +1,85 @@
+.container {
+  padding: 15px;
+  margin: 10px auto;
+  /* border: 7px ridge #0370c6; */
+}
+
+.principal-cities {
+  color: blue;
+  font-size: 15px;
+  font-family: "Roboto Flex", sans-serif;
+  text-decoration: underline;
+}
+
+.btn-info {
+  color: #fff;
+  font-family: "Roboto Flex", sans-serif;
+  text-decoration: none;
+  border: #fff;
+}
+
+form {
+  font-family: "Roboto Flex", sans-serif;
+  margin: 10px 0 0;
+}
+
+h1,
+h4 {
+  font-size: 26px;
+  font-weight: bold;
+  font-family: "DM Serif Display", serif;
+  margin: 0 auto;
+  padding: 0;
+}
+
+h2,
+h3,
+h5,
+h6,
+h7 {
+  font-size: 16px;
+  font-family: "Roboto Flex", sans-serif;
+  margin: 0 auto;
+  padding: 0;
+}
+
+h2 {
+  margin-bottom: 20px;
+}
+
+h6 {
+  margin-top: 20px;
+}
+
+.principal-weather {
+  text-align: center;
+  color: #0370c6;
+  background: #d9edfd;
+  padding: 50px 30px 30px;
+  margin: 0 auto;
+  width: 330px;
+  border: 1px solid #d9edfd;
+  border-radius: 50%;
+}
+
+.weather-icon-small {
+  color: #5c636a;
+  font-size: 35px;
+  padding: 5px 0;
+}
+
+.day-2,
+.day-3,
+.day-4,
+.day-5,
+.day-6 {
+  text-align: center;
+  color: #5c636a;
+  background: #e9ebee;
+  font-size: 14px;
+  font-family: "Roboto Flex", sans-serif;
+  padding: 10px 5px;
+  margin: 3px;
+  border: 1px solid #e9ebee;
+  border-radius: 10px;
+}
